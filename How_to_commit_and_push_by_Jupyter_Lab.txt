@@ -1,0 +1,13 @@
+自分用にメモ
+
+【まず準備すること】
+1. git init リポジトリ名
+2. git remote add リモートリポジトリ名 リポジトリ名(https://xxxx形式)
+
+【commit & push のやり方】
+1. git add -u ※フォルダごとの場合は、git add . 
+2. git commit -m "変更の内容"
+3. git push リモートリポジトリ名 main ※main はブランチによって変更する
+
+【pull のやり方】
+1. git pull リモートリポジトリ名 main ※pullするとき
